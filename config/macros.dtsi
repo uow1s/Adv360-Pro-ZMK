@@ -2,73 +2,73 @@ macro_fn12: macro_fn12{
 compatible = "zmk,behavior-macro";
 label = "macro_fn12";
 #binding-cells = <0>;
-bindings = <&kp LC(LA(LS(KP_DIVIDE)))>;
+bindings = <&kp LC(LA(KP_DIVIDE)))>;
 };
 macro_fn11: macro_fn11{
 compatible = "zmk,behavior-macro";
 label = "macro_fn11";
 #binding-cells = <0>;
-bindings = <&kp LC(LA(LS(KP_MULTIPLY)))>;
+bindings = <&kp LC(LA(KP_MULTIPLY)))>;
 };
 macro_fn10: macro_fn10{
 compatible = "zmk,behavior-macro";
 label = "macro_fn10";
 #binding-cells = <0>;
-bindings = <&kp LC(LA(LS(KP_N0)))>;
+bindings = <&kp LC(LA(KP_N0)))>;
 };
 macro_fn9: macro_fn9{
 compatible = "zmk,behavior-macro";
 label = "macro_fn9";
 #binding-cells = <0>;
-bindings = <&kp LC(LA(LS(KP_N9)))>;
+bindings = <&kp LC(LA(KP_N9)))>;
 };
 macro_fn8: macro_fn8{
 compatible = "zmk,behavior-macro";
 label = "macro_fn8";
 #binding-cells = <0>;
-bindings = <&kp LC(LA(LS(KP_N8)))>;
+bindings = <&kp LC(LA(KP_N8)))>;
 };
 macro_fn7: macro_fn7{
 compatible = "zmk,behavior-macro";
 label = "macro_fn7";
 #binding-cells = <0>;
-bindings = <&kp LC(LA(LS(KP_N7)))>;
+bindings = <&kp LC(LA(KP_N7)))>;
 };
 macro_fn6: macro_fn6{
 compatible = "zmk,behavior-macro";
 label = "macro_fn6";
 #binding-cells = <0>;
-bindings = <&kp LC(LA(LS(KP_N6)))>;
+bindings = <&kp LC(LA(KP_N6)))>;
 };
 macro_fn5: macro_fn5{
 compatible = "zmk,behavior-macro";
 label = "macro_fn5";
 #binding-cells = <0>;
-bindings = <&kp LC(LA(LS(KP_N5)))>;
+bindings = <&kp LC(LA(KP_N5)))>;
 };
 macro_fn4: macro_fn4{
 compatible = "zmk,behavior-macro";
 label = "macro_fn4";
 #binding-cells = <0>;
-bindings = <&kp LC(LA(LS(KP_N4)))>;
+bindings = <&kp LC(LA(KP_N4)))>;
 };
 macro_fn3: macro_fn3{
 compatible = "zmk,behavior-macro";
 label = "macro_fn3";
 #binding-cells = <0>;
-bindings = <&kp LC(LA(LS(KP_N3)))>;
+bindings = <&kp LC(LA(KP_N3)))>;
 };
 macro_fn2: macro_fn2{
 compatible = "zmk,behavior-macro";
 label = "macro_fn2";
 #binding-cells = <0>;
-bindings = <&kp LC(LA(LS(KP_N2)))>;
+bindings = <&kp LC(LA(KP_N2)))>;
 };
 macro_fn1: macro_fn1{
 compatible = "zmk,behavior-macro";
 label = "macro_fn1";
 #binding-cells = <0>;
-bindings = <&kp LC(LA(LS(KP_N1)))>;
+bindings = <&kp LC(LA(KP_N1)))>;
 };
 macro_test_typing: macro_test_typing{
 compatible = "zmk,behavior-macro";
